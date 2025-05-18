@@ -1,0 +1,6 @@
+# Generate seed and base key using cmd/seed
+export MASTER_SEED="K+jpec4g9yCZ0I6MLloANOWzk9Dx0dNjpeaBXRkRcmY="
+export NEUTERED_BASE_KEY="xpub6DMppBM73rocCCBzLwReWnAuQnEi2A4NikC4tqYYmCaEXbTEZdW196dth3QmsfkCbtbrStCLgTSzJiSXW5NPEqbzZPKzyzRosXEXjnjBf8y"
+
+# openssl rand -base64 64 | tr -d '\n'
+export SECRET_KEY_BASE="NMb0xe7QkbrnvRBQstQYgj2f3KaaFaN1BW28ylAtgIx/NwaZ6Wl5bd8LxMTnhYWlUh0t4K2IzQm5Evmb14emaQ=="
